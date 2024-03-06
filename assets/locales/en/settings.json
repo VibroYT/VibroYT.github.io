@@ -1,0 +1,29 @@
+{
+	"language": "Language",
+	"theme": "Theme",
+	"themeDay": "Day",
+	"themeNight": "Night",
+	"automaticProxy": "Automatic",
+	"searchEngine": "Search Engine",
+	"proxy": {
+		"engine": "Engine",
+		"mode": "Mode",
+		"setting": {
+			"embedded": "Embedded",
+			"redirect": "Redirect",
+			"ab": "about:blank"
+		}
+	},
+	"tabMask": {
+		"description": "Tab Masking allows you to disguise Holy Unblocker as any website such as your school's home page, new tab, etc.",
+		"urlField": "URL",
+		"resetButton": "Reset mask",
+		"notification": {
+			"reset": "Mask reset.",
+			"fetching": "Loading mask...",
+			"failure": "Failure loading mask.",
+			"set": "Mask successfully set."
+		},
+		"validateError": "Invalid URL."
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"language": "Langue",
+	"theme": "Thème",
+	"themeDay": "Jour",
+	"themeNight": "Nuit",
+	"automaticProxy": "Automatique",
+	"searchEngine": "Moteur de recherche",
+	"proxy": {
+		"engine": "Moteur",
+		"mode": "Mode",
+		"setting": {
+			"embedded": "Intégré",
+			"redirect": "Redirection",
+			"ab": "about:blank"
+		}
+	},
+	"tabMask": {
+		"description": "Le masquage d'onglet vous permet de dissimuler Holy Unblocker en tant que tout site Web, tel que la page d'accueil de votre école, un nouvel onglet, etc.",
+		"urlField": "URL",
+		"resetButton": "Réinitialiser le masque",
+		"notification": {
+			"reset": "Masque réinitialisé.",
+			"fetching": "Chargement du masque en cours...",
+			"failure": "Echec du chargement du masque.",
+			"set": "Masque défini avec succès."
+		},
+		"validateError": "URL non valide."
+	}
+}
